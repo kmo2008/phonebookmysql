@@ -9,8 +9,8 @@
         <module name="phonebookmysql" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="phonebookmysql" target="1.5" />
+    <bytecodeTargetLevel target="9">
+      <module name="phonebookmysql" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
